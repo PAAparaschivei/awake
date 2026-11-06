@@ -4,7 +4,7 @@
 
 Awake is a macOS menu bar app that prevents idle system sleep. Turn it on while a long task runs or choose a timer from one to four hours.
 
-<img src="docs/awake.png" alt="Awake menu bar popover with an indefinite session active" width="288">
+<a href="docs/awake.png"><img src="docs/awake-hero.png" alt="Awake menu bar popover with an indefinite session active" width="510"></a>
 
 Click the moon in the menu bar to open the controls. Choose **On**, a duration or **Off**. The icon becomes a sun during a session. Awake starts inactive each time.
 
